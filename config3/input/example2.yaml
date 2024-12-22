@@ -1,0 +1,11 @@
+user:
+  name: John Doe
+  age: 30
+  skills:
+    - Python
+    - JavaScript
+  metadata:
+    active: true
+    roles:
+      - admin
+      - user

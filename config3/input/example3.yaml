@@ -1,0 +1,8 @@
+app:
+  name: MyApp
+  version: 1.0
+  dependencies:
+    - name: lib1
+      version: 2.3
+    - name: lib2
+      version: 1.5

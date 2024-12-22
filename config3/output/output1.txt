@@ -1,0 +1,12 @@
+struct {
+  network = struct {
+  hostname = router1,
+  interfaces = [ struct {
+  name = eth0,
+  ip = 192.168.1.1
+} struct {
+  name = eth1,
+  ip = 192.168.2.1
+} ]
+}
+}
