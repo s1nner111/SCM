@@ -43,6 +43,8 @@ python emulator.py <путь_к_vfs.zip> <путь_к_log.json> <путь_к_scr
 ```script.sh``` - путь к стартовому файлу скрипта script.sh
 
 Пример запуска:
+```
 python emulator.py vfs.zip log.json script.sh
+```
 
 ## Тестирование
