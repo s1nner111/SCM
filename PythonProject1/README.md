@@ -30,16 +30,23 @@ Python 3.7 или выше
 
 Установите библиотеку ```graphviz``` для ```Python```:
 
-```pip install graphviz```
+```
+pip install graphviz
+```
+
 Убедитесь, что ```Graphviz``` установлен и добавлен в переменную окружения ```PATH```.
 
 Для ```Linux```:
 
-```sudo apt install graphviz```
+```
+sudo apt install graphviz
+```
 
 Для ```macOS```:
 
-```brew install graphviz```
+```
+brew install graphviz
+```
 
 Для ```Windows```: 
 
@@ -63,3 +70,6 @@ python script.py <visualizer_path> <package_name> <max_depth> [repo_url]
 ```python script.py /usr/bin/dot bash 1 http://dl-cdn.alpinelinux.org/alpine/v3.18/main```
 
 ## После выполнения программы граф зависимостей будет сохранен в файл dependency_graph.png и открыт автоматически.
+## Изображение графа:
+![image](https://github.com/user-attachments/assets/280660a0-235c-4b1f-a522-c4d1b201c3ec)
+
