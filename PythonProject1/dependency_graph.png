@@ -1,0 +1,13 @@
+digraph {
+	example_package [label=example_package]
+	dependency1 [label=dependency1]
+	example_package -> dependency1
+	sub_dependency1 [label=sub_dependency1]
+	example_package -> sub_dependency1
+	sub_dependency2 [label=sub_dependency2]
+	example_package -> sub_dependency2
+	dependency2 [label=dependency2]
+	example_package -> dependency2
+	sub_dependency3 [label=sub_dependency3]
+	example_package -> sub_dependency3
+}
