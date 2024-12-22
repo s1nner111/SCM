@@ -69,7 +69,9 @@ python script.py <visualizer_path> <package_name> <max_depth> [repo_url]
 
 ```python script.py /usr/bin/dot bash 1 http://dl-cdn.alpinelinux.org/alpine/v3.18/main```
 
-## После выполнения программы граф зависимостей будет сохранен в файл dependency_graph.png и открыт автоматически.
+После выполнения программы граф зависимостей будет сохранен в файл dependency_graph.png и открыт автоматически.
 ## Изображение графа:
 ![image](https://github.com/user-attachments/assets/280660a0-235c-4b1f-a522-c4d1b201c3ec)
 
+## Полнота тестов
+![image](https://github.com/user-attachments/assets/d80ea45f-d105-4aaa-9626-02d6a81a3988)
