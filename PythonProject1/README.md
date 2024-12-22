@@ -73,5 +73,3 @@ python script.py <visualizer_path> <package_name> <max_depth> [repo_url]
 ## Изображение графа:
 ![image](https://github.com/user-attachments/assets/280660a0-235c-4b1f-a522-c4d1b201c3ec)
 
-## Полнота тестов:
-![image](https://github.com/user-attachments/assets/d80ea45f-d105-4aaa-9626-02d6a81a3988)
