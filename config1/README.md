@@ -31,16 +31,16 @@
 
 Python версии 3.8 или выше.
 
-###Команда запуска:
+### Команда запуска:
 ```
 python emulator.py <путь_к_vfs.zip> <путь_к_log.json> <путь_к_script.sh>
 ```
 
-###Параметры:
+### Параметры:
 
 ```vfs.zip``` — путь к zip-архиву виртуальной файловой системы.
 ```--log.json``` — путь к лог-файлу в формате json.
-```script.sh``` - путь к файлу script.sh
+```script.sh``` - путь к стартовому файлу скрипта script.sh
 
 Пример запуска:
 python emulator.py vfs.zip log.json script.sh
